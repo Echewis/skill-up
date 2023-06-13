@@ -1,6 +1,6 @@
-body{
+body
 
-}
+
 hi{
   margin-top: 0
 }
@@ -28,8 +28,7 @@ hi{
   margin: 0 auto;
 }
 .bottom-cloud{
-  position:
-
+  position: relative
 }
 .mountain{
   position: absolute;
@@ -42,7 +41,7 @@ margin-left: 500px
 .heading{
   position: relative;
   margin-left: 500px
-}
+}/* removing the dot and adding a comment line to the line of code
 .mountain{
-  position. relative;
-}
+  position: relative;
+}*/
